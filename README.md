@@ -101,11 +101,9 @@ Developed a scalable Data Engineering platform based on Lambda Architecture usin
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: samarmarwan220@gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile link here
-
-🌍 Portfolio: Add your portfolio link here
+💼 LinkedIn: https://www.linkedin.com/in/samar-marwan-3820431a1/
 
 ---
 
